@@ -9,4 +9,6 @@ errors. I offered the URL to my classmates so some of them may also be using it.
 
 The main file to look at in this repo is app.js, which is where the Javascript code that controls the behavior of the plots resides. 
 
-The file index.html was not written by me, but contains the html elements that I manipulate with my Javascript. 
+The file index.html was not written by me, but contains the html elements that I manipulate with my Javascript.
+
+I did not attempt the bonus, so bonus.js is empty. 
